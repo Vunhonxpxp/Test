@@ -34,11 +34,11 @@ if not exist "%folder%\ClientSettings" (
     mkdir "%folder%\ClientSettings"
 )
 
-echo Downloading ClientAppSettings.json file...
+echo [ Downloading ClientAppSettings.json file ]
 powershell.exe -Command "& {(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/Vunhonxpxp/Test/main/ClientAppSettings.json', '%folder%\ClientSettings\ClientAppSettings.json')}"
 if %errorlevel% EQU 0 (
     echo.
-    echo [ + ] - [ RFB Installation Success! ]
+    echo [ RFB Installation Success! ]
 )
 
 echo.
