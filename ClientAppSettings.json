@@ -11,8 +11,8 @@
   "FFlagEnableMenuModernizationABTest2": "False",
   "FFlagEnableV3MenuABTest3": "False",
   "FFlagFixGraphicsQuality": "True",
-  "FFlagDebugGraphicsDisableDirect3D11": "True",
-  "FFlagDebugGraphicsPreferOpenGL": "True"
-  "FFlagDebugGraphicsPreferD3D11FL10": "True"
+  "FFlagDebugGraphicsPreferVulkan": "True",
+  "FFlagDebugGraphicsPreferOpenGL": "True",
+  "FFlagDebugGraphicsPreferD3D11FL10": "True",
   "FFlagDebugGraphicsPreferD3D11": "True"
 }
