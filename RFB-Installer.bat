@@ -1,7 +1,7 @@
 @echo off
 
 echo.
-echo RFB created by Vuendervn
+echo RFB created by Vunhonxpxp
 echo.
 
 echo.
