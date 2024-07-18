@@ -11,13 +11,6 @@
   "FFlagEnableMenuModernizationABTest2": "False",
   "FFlagEnableV3MenuABTest3": "False",
   "FFlagFixGraphicsQuality": "True",
-  "FIntFRMMinGrassDistance": "0",
-  "FIntFRMMaxGrassDistance": "0",
-  "FIntRenderGrassDetailStrands": "0",
-  "FIntRenderGrassHeightScaler": "0"
-  "FIntRenderShadowIntensity": "0"
-  "DFIntCullFactorPixelThresholdShadowMapHighQuality": "2147483647",
-  "DFIntCullFactorPixelThresholdShadowMapLowQuality": "2147483647"
   "FFlagDebugGraphicsPreferVulkan": "True",
   "FFlagDebugGraphicsPreferOpenGL": "True",
   "FFlagDebugGraphicsPreferD3D11FL10": "True",
