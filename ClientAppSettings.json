@@ -1,5 +1,6 @@
 {
   "FFlagHandleAltEnterFullscreenManually": "False",
+  "FStringWhitelistVerifiedUserId": "4192452350",
   "FLogNetwork": "7",
   "DFIntConnectionMTUSize": "900",
   "DFIntTaskSchedulerTargetFps": "240",
